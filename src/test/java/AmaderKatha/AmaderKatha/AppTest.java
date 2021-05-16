@@ -35,4 +35,8 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    public void myAppTest() {
+    	System.out.println("Writing this code in subh's machine!");
+    }
 }
