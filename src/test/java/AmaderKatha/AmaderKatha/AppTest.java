@@ -35,4 +35,8 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    public void soumiTestAPP() {
+    	System.out.println("Soumi writing code from soumi's machine");
+    }
 }
