@@ -36,7 +36,15 @@ public class AppTest
         assertTrue( true );
     }
     
+    //fixed the conflict
     public void myAppTest() {
     	System.out.println("Writing this code in subh's machine!");
+
     }
+    
+    //fixed the conflict
+    public void soumiTestAPP() {
+    	System.out.println("Soumi writing code from soumi's machine");
+    }
+    
 }
